@@ -27,8 +27,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Install dependencie
-        run: npm install
+        run: npm install --save
 
       # Runs a set of commands using the runners shell
-      - name: Buile dependencie
+      - name: Build dependencie
         run: npm run build
