@@ -34,6 +34,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Build dependencie
-        run: npm run build
+        run: npm run build 
 
         
