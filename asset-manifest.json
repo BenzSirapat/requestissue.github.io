@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/requestissue.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/requestissue.github.io/static/js/main.c5a9b691.js",
+    "static/js/453.a90d1845.chunk.js": "/requestissue.github.io/static/js/453.a90d1845.chunk.js",
+    "index.html": "/requestissue.github.io/index.html",
+    "main.f855e6bc.css.map": "/requestissue.github.io/static/css/main.f855e6bc.css.map",
+    "main.c5a9b691.js.map": "/requestissue.github.io/static/js/main.c5a9b691.js.map",
+    "453.a90d1845.chunk.js.map": "/requestissue.github.io/static/js/453.a90d1845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c5a9b691.js"
+  ]
+}
