@@ -3,6 +3,9 @@
 name: CI
 
 # Controls when the workflow will run
+env:
+  CI: false
+  
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
@@ -32,3 +35,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Build dependencie
         run: npm run build
+
+        
